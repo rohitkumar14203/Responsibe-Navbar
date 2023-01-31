@@ -12,7 +12,7 @@ body {
     position: relative;
     justify-content: space-between;
     align-items: center;
-    background-color: hsl(0, 9%, 66%);
+    background-color: #333;
     color: white;
 }
 
@@ -40,12 +40,12 @@ body {
 .navbar-links li a {
     display: block;
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 1rem;
 }
 
 .navbar-links li:hover {
-    background-color: whitesmoke;
+    background-color: #555;
     border-radius: 5rem;
     -webkit-border-radius: 5rem;
     -moz-border-radius: 5rem;
